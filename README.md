@@ -8,4 +8,4 @@ Built using React.js
 
 ### App snapshot
 
-![screenshot](./screenshot.png)
+![screenshot](./series_screenshot.png)
